@@ -1,0 +1,26 @@
+{
+  "name": "skype_bot",
+  "version": "1.0.0",
+  "description": "Create bot for skype",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello world, could you save the world with me?"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DangN1212/skype_bot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "DAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DangN1212/skype_bot/issues"
+  },
+  "homepage": "https://github.com/DangN1212/skype_bot#readme",
+  "dependencies": {
+    "botbuilder": "^3.9.0",
+    "restify": "^5.2.0"
+  }
+}
